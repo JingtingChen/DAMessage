@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9BEF56096D10CCA1AD9DE380"
+               BlueprintIdentifier = "1244740B686B785967BC94BD"
                BuildableName = "DAMessage.bundle"
                BlueprintName = "Pods-DAMessage_Tests-DAMessage-DAMessage"
                ReferencedContainer = "container:Pods.xcodeproj">

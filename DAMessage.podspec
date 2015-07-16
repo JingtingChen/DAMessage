@@ -10,18 +10,18 @@
 Pod::Spec.new do |s|
   s.name             = "DAMessage"
   s.version          = "0.1.0"
-  s.summary          = "A short description of DAMessage."
+  s.summary          = "A Message Library based on JSQMessage"
   s.description      = <<-DESC
-                       An optional longer description of DAMessage
+                        A Message Library based on JSQMessage
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/DAMessage"
+  s.homepage         = "https://github.com/JingtingChen/DAMessage"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Jimmy" => "jimmy@puvsa.org" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/DAMessage.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/JingtingChen/DAMessage.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
@@ -33,6 +33,6 @@ Pod::Spec.new do |s|
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit'
+  s.dependency 'M13BadgeView'
 end

@@ -1,5 +1,6 @@
 PODS:
-  - DAMessage (0.1.0)
+  - DAMessage (0.1.0):
+    - M13BadgeView
   - M13BadgeView (1.0.4)
 
 DEPENDENCIES:
@@ -11,7 +12,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  DAMessage: 6bb964178ba1fc0e1d096d37dd47f886ea0d1c01
+  DAMessage: 98bd23f7bd8f98635c0ccb93fd0d9251a44c29fd
   M13BadgeView: 700dd0714fdc837c0cf1c8c004454963ec22441f
 
 COCOAPODS: 0.37.2

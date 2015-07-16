@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/Factories/JSQMessagesBubbleImageFactory.h

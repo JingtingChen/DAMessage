@@ -1,0 +1,17 @@
+PODS:
+  - DAMessage (0.1.0)
+  - M13BadgeView (1.0.4)
+
+DEPENDENCIES:
+  - DAMessage (from `../`)
+  - M13BadgeView
+
+EXTERNAL SOURCES:
+  DAMessage:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DAMessage: 6bb964178ba1fc0e1d096d37dd47f886ea0d1c01
+  M13BadgeView: 700dd0714fdc837c0cf1c8c004454963ec22441f
+
+COCOAPODS: 0.37.2

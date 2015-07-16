@@ -1,0 +1,6 @@
+framework module M13BadgeView {
+  umbrella header "Pods-DAMessage_Tests-M13BadgeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

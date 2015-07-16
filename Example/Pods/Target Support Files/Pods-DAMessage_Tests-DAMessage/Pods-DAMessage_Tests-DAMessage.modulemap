@@ -1,0 +1,6 @@
+framework module DAMessage {
+  umbrella header "Pods-DAMessage_Tests-DAMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}

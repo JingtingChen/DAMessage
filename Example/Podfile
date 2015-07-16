@@ -5,5 +5,5 @@ use_frameworks!
 target 'DAMessage_Tests', :exclusive => true do
   pod "DAMessage", :path => "../"
 
-  
+pod 'M13BadgeView'
 end

@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/Views/JSQMessagesCellTextView.h

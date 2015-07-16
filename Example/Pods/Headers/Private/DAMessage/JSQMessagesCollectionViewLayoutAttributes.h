@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/Layout/JSQMessagesCollectionViewLayoutAttributes.h

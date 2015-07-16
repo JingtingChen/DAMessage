@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/Layout/JSQMessagesCollectionViewFlowLayoutInvalidationContext.h
